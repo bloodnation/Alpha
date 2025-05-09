@@ -28,7 +28,7 @@ A modern, responsive portfolio website for developers to showcase their skills, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bloodnation/Portfolio.git
+   git clone https://github.com/bloodnation/Alpha.git
    ```
 
 2. Open the `index.html` file in your browser.
